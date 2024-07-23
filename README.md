@@ -3,15 +3,13 @@
 This is a simple quiz application built using HTML, CSS, and JavaScript. The app allows users to answer multiple-choice questions and see their score upon completion.
 
 
-## Pictures of the Web app
+## Demo Video of the App
 
-### Questions
 
-![Screen Shot 2024-07-23 at 18 46 00](https://github.com/user-attachments/assets/1b3b7392-9e9f-46eb-a83e-9763768311e6)
 
-### Result
+https://github.com/user-attachments/assets/2489faf5-34ba-4c8d-8869-9e98f9c99116
 
-![Screen Shot 2024-07-23 at 18 46 24](https://github.com/user-attachments/assets/e88113e7-b74b-4577-bfa8-1f5c8d1aec68)
+
 
 ## Features
 
